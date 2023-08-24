@@ -1,10 +1,8 @@
 # QR_Code_Generator
 
-Link to visite output: - https://amansahu13.github.io/QR_Code_Generator/
+Link to visit output: - https://amansahu13.github.io/QR_Code_Generator/
 
-This is Smart QR Code generator Application base projet.
-Which is used to make QR Code Of Number, Links, Location etc.
-And you can also provide spacific path to sotre your QR Code.
+This is a Smart QR Code generator Application base project. Which is used to make QR codes of Numbers, Links, Locations, etc. You can also provide a specific path to save your QR Code.
 
 # Image
 1st(Open Application)
